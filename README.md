@@ -11,8 +11,8 @@
 7. KNN--------------------------- Not Sensitive 
 8. Kmeans------------------------ Sensitive
 9. Hierarichal------------------- Sensitive 
-10. PCA-------------------------- Sensitive 
-11. Neural Networks-------------- Sensitive
+ 10. PCA-------------------------- Sensitive 
+ 11. Neural Networks-------------- Sensitive
 
 
 ### This Covers The Both Distributions 
